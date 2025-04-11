@@ -1,0 +1,35 @@
+# Виртуальные окружения
+venv/
+.venv/
+env/
+ENV/
+
+#Миграции
+**/migrations/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Временные и лог-файлы
+*.log
+*.tmp
+*.bak
+
+# Файлы IDE и редакторов
+.vscode/
+*.swp
+
+# Файлы окружения и конфигурации
+*.env
+config.py
+
+# Лишние фалы
+help.md
+
+# pip metadata
+pip-wheel-metadata/
+
+# macOS служебные файлы
+.DS_Store

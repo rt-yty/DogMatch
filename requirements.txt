@@ -1,0 +1,8 @@
+flask
+flask-restful
+torch
+torchvision
+numpy
+flask-sqlalchemy
+psycopg2-binary
+flask-migrate
